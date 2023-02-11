@@ -1,0 +1,22 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "productCategory": "Fruits",
+      "productFreshness": "Brand New",
+      "price": 20,
+      "date": "2023-02-10T18:30:00.000Z",
+      "comment": "hello demo",
+      "id": 1
+    },
+    {
+      "productName": "Realme 11",
+      "productCategory": "Electronics",
+      "productFreshness": "Brand New",
+      "price": 25000,
+      "date": "2023-02-03T18:30:00.000Z",
+      "comment": "dfcacf fqwfqwf",
+      "id": 2
+    }
+  ]
+}
